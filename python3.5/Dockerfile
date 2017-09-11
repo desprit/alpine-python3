@@ -1,6 +1,6 @@
-#################################
-# Dockerfile for Alpine Python3 #
-#################################
+###################################
+# Dockerfile for Alpine Python3.5 #
+###################################
  
 FROM alpine:latest
 MAINTAINER Desprit <a.bondarev.it@gmail.com>
